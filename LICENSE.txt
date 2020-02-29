@@ -1,0 +1,1 @@
+It is forbidden to port this binary to other tools without permission: pwnedDFU
